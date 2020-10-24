@@ -28,4 +28,4 @@ I am mostly active within the Rust Open Source ecosystem.
 ### Contact 🤝
 
 * ✍️ You can reach out to me on [Twitter](https://twitter.com/algo_luca), on [LinkedIn](https://www.linkedin.com/in/luca-palmieri/) or at contact (at) lpalmieri.com.  
-* 📆 Do you have an idea you want to talk about face to face? [Book me up!]()
+* 📆 Do you have an idea you want to talk about face to face? [Book me up!](https://calendly.com/algo_luca/office-hours)
