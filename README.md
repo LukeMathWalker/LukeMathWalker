@@ -12,9 +12,9 @@ I have been speaking at conferences (RustFest, RustLab, CodeMotion, RustyDays) a
 You can find recordings and slides for all my talks [here](https://www.lpalmieri.com/talks/).
 
 ### Work 💸
-I am a Lead Engineer at [TrueLayer](https://truelayer.com).  
+I am a Principal Engineer at [TrueLayer](https://truelayer.com).  
 I touched most of our systems during my tenure - definitely a fun ride so far.  
-I currently lead our payment product line, [PayDirect](https://blog.truelayer.com/how-we-built-paydirect-82c9565f3fd2).
+I led the original design for [PayDirect](https://blog.truelayer.com/how-we-built-paydirect-82c9565f3fd2).
 
 ### Open Source 🦀
 I am mostly active within the Rust Open Source ecosystem.
