@@ -5,7 +5,7 @@ I am an immigrant living in London (UK 🇬🇧), born and raised in Rome (Italy
 
 ### Writing ✍️ 
 - 💬 I blog fairly regularly on [A Learning Journal](https://lpalmieri.com). You can [subscribe to my newsletter](https://www.lpalmieri.com/subscribe/) to be notified when new content is published.
-- 📕 I'm writing [Zero To Production In Rust](https://zero2prod.com), a hands-on introduction to backend development in Rust. You can get early access at [zero2prod.com](https://zero2prod.com).
+- 📕 I'm the author of [Zero To Production In Rust](https://zero2prod.com), a hands-on introduction to backend development in Rust. You can buy a copy at [zero2prod.com](https://zero2prod.com).
 
 ### Speaking 🗣️
 I have been speaking at conferences (RustFest, RustLab, CodeMotion, RustyDays) and meetups (Data Science & DevOps, Rust London User Group) for the past couple of years.  
