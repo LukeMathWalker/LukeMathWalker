@@ -8,13 +8,11 @@ I am an immigrant living in London (UK 🇬🇧), born and raised in Rome (Italy
 - 📕 I'm the author of [Zero To Production In Rust](https://zero2prod.com), a hands-on introduction to backend development in Rust. You can buy a copy at [zero2prod.com](https://zero2prod.com).
 
 ### Speaking 🗣️
-I have been speaking at conferences (RustFest, RustLab, CodeMotion, RustyDays) and meetups (Data Science & DevOps, Rust London User Group) for the past couple of years.  
+I have been speaking at conferences (QCon, RustFest, RustLab, CodeMotion, RustyDays, EuroRust) and meetups.
 You can find recordings and slides for all my talks [here](https://www.lpalmieri.com/talks/).
 
 ### Work 💸
-I am a Principal Engineer at [TrueLayer](https://truelayer.com).  
-I touched most of our systems during my tenure - definitely a fun ride so far.  
-I led the original design for [PayDirect](https://blog.truelayer.com/how-we-built-paydirect-82c9565f3fd2).
+I am a Senior Engineer at AWS, previously a Principal Engineer at [TrueLayer](https://truelayer.com).  
 
 ### Open Source 🦀
 I am mostly active within the Rust Open Source ecosystem.
