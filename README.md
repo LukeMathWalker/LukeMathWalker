@@ -15,16 +15,16 @@ You can find recordings and slides for all my talks [here](https://www.lpalmieri
 I am a Senior Engineer at AWS, previously a Principal Engineer at [TrueLayer](https://truelayer.com).  
 
 ### Open Source 🦀
-I am mostly active within the Rust Open Source ecosystem.  
-I am currently focusing on [`pavex`](https://github.com/LukeMathWalker/pavex), a new breed of Rust web framework. You can learn more about it in the [announcement blog post](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/).
+I am primarily active in the Rust ecosystem.  
+My main focus at the moment is [`pavex`](https://github.com/LukeMathWalker/pavex), a new breed of Rust web framework. You can learn more about it in the [announcement blog post](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/).
 
 My portfolio of contributions is varied:
 
 - I wrote [Build Your Own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/), a hands-on workshop to get started with Rust;
-- I am the author of a bunch of different crates for various purposes. In particular:
+- I am the author of a bunch of Rust crates for various purposes. In particular:
   - [`wiremock-rs`](https://github.com/LukeMathWalker/wiremock-rs), HTTP mocking for black-box testing;
   - [`cargo-chef`](https://www.lpalmieri.com/posts/fast-rust-docker-builds/), a `cargo` sub-command to leverage caching in Rust Docker builds;
-  - [`tracing-bunyan-subscriber`](https://github.com/LukeMathWalker/tracing-bunyan-subscriber), a formatting layer for the `tracing` instrumentation framework;
+  - [`tracing-bunyan-formatter`](https://github.com/LukeMathWalker/tracing-bunyan-formatter), a formatting layer for the `tracing` instrumentation framework;
 - I spent more than a year contributing to the Rust numerical ecosystem ([`ndarray`](https://github.com/rust-ndarray/ndarray), [`ndarray-stats`](https://github.com/rust-ndarray/ndarray-stats) and [`linfa`](https://github.com/rust-ml/linfa/));
 
 ### Contact 🤝
