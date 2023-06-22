@@ -1,7 +1,7 @@
 ### Ciao! ✋
 
 I am a mathematician turned Machine Learning Engineer turned Software Engineer.  
-I am an immigrant living in London (UK 🇬🇧), born and raised in Rome (Italy 🇮🇹).
+I was born and raised in in Rome (Italy 🇮🇹), but I spent 6 years in London's (UK 🇬🇧) tech scene.
 
 ### Writing ✍️ 
 - 💬 I blog fairly regularly on [A Learning Journal](https://lpalmieri.com). You can [subscribe to my newsletter](https://www.lpalmieri.com/subscribe/) to be notified when new content is published.
@@ -12,11 +12,11 @@ I have been speaking at conferences (QCon, RustFest, RustLab, CodeMotion, RustyD
 You can find recordings and slides for all my talks [here](https://www.lpalmieri.com/talks/).
 
 ### Work 💸
-I am a Senior Engineer at AWS, previously a Principal Engineer at [TrueLayer](https://truelayer.com).  
+I am a Principal Engineering Consultant at Mainmatter. I was previously a Senior Engineer at AWS and a Principal Engineer at [TrueLayer](https://truelayer.com).  
 
 ### Open Source 🦀
 I am primarily active in the Rust ecosystem.  
-My main focus at the moment is [`pavex`](https://github.com/LukeMathWalker/pavex), a new breed of Rust web framework. You can learn more about it in the [announcement blog post](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/).
+My main focus at the moment is [Pavex](https://github.com/LukeMathWalker/pavex), a new breed of Rust web framework. You can learn more about it in the [announcement blog post](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/).
 
 My portfolio of contributions is varied:
 
