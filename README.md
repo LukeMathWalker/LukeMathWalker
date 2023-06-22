@@ -12,7 +12,7 @@ I have been speaking at conferences (QCon, RustFest, RustLab, CodeMotion, RustyD
 You can find recordings and slides for all my talks [here](https://www.lpalmieri.com/talks/).
 
 ### Work 💸
-I am a Principal Engineering Consultant at Mainmatter. I was previously a Senior Engineer at AWS and a Principal Engineer at [TrueLayer](https://truelayer.com).  
+I am a Principal Engineering Consultant at [Mainmatter](https://mainmatter.com). I was previously a Senior Engineer at AWS and a Principal Engineer at [TrueLayer](https://truelayer.com).  
 
 ### Open Source 🦀
 I am primarily active in the Rust ecosystem.  
