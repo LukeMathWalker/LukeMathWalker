@@ -16,7 +16,7 @@ I am a Principal Engineering Consultant at [Mainmatter](https://mainmatter.com).
 
 ### Open Source 🦀
 I am primarily active in the Rust ecosystem.  
-My main focus at the moment is [Pavex](https://github.com/LukeMathWalker/pavex), a new breed of Rust web framework. You can learn more about it in the [announcement blog post](https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/).
+Currently, my main focus is [Pavex](https://github.com/LukeMathWalker/pavex), a new breed of Rust web framework. You can learn more about it on [pavex.dev](pavex.dev).
 
 My portfolio of contributions is varied:
 
