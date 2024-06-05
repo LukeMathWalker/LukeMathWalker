@@ -1,10 +1,10 @@
 ### Ciao! ✋
 
 I am a mathematician turned Machine Learning Engineer turned Software Engineer.  
-I was born and raised in in Rome (Italy 🇮🇹), but I spent 6 years in London's (UK 🇬🇧) tech scene.
+I was born and raised in Rome (Italy 🇮🇹), but I spent six years in London's (UK 🇬🇧) tech scene.
 
 ### Writing ✍️ 
-- 💬 I blog fairly regularly on [A Learning Journal](https://lpalmieri.com). You can [subscribe to my newsletter](https://www.lpalmieri.com/subscribe/) to be notified when new content is published.
+- 💬 I regularly blog on [A Learning Journal](https://lpalmieri.com). You can [subscribe to my newsletter](https://www.lpalmieri.com/subscribe/) to be notified when new content is published.
 - 📕 I'm the author of:
   - [Zero To Production In Rust](https://zero2prod.com), a hands-on introduction to backend development in Rust.
   - [100 exercises to learn Rust](https://rust-exercises.com), a learn-by-doing introduction to the Rust programming language.
@@ -18,7 +18,7 @@ I am a Principal Engineering Consultant at [Mainmatter](https://mainmatter.com).
 
 ### Open Source 🦀
 I am primarily active in the Rust ecosystem.  
-Currently, my main focus is [Pavex](https://github.com/LukeMathWalker/pavex), a new breed of Rust web framework. You can learn more about it on [pavex.dev](pavex.dev).
+My main focus currently is [Pavex](https://github.com/LukeMathWalker/pavex), a new breed of Rust web framework. You can learn more about it on [pavex.dev](pavex.dev).
 
 My portfolio of contributions is varied:
 
